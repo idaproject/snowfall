@@ -1,0 +1,16 @@
+{
+  "name": "snowfall-canvas",
+  "authors": [
+    "sasha <am@idaproject.com>"
+  ],
+  "description": "new year snowfall for your site using canvas",
+  "main": "main.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "snowfall"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
