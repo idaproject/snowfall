@@ -11,6 +11,9 @@
   "keywords": [
     "snowfall"
   ],
+  "ignore": [
+    "LICENSE"
+  ],
   "license": "MIT",
   "homepage": ""
 }
