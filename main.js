@@ -59,7 +59,7 @@ setTimeout(init, 10);
 
 function init() {
 	canvas = document.createElement('canvas');
-	canvas.setAttribute("style", "position: absolute;top: 0;left: 0;z-index: 10000;width: 100%;height: 100%;pointer-events: none;");
+	canvas.setAttribute("style", "position: fixed;top: 0;left: 0;z-index: 10000;width: 100%;height: 100%;pointer-events: none;");
 	document.body.appendChild(canvas);
 	
 	context = canvas.getContext('2d');
