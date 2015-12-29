@@ -3,6 +3,7 @@
   "authors": [
     "sasha <am@idaproject.com>"
   ],
+  "version": "1.0.1",
   "description": "new year snowfall for your site using canvas",
   "main": "main.js",
   "moduleType": [
