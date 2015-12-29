@@ -13,4 +13,9 @@ Adds New Year's mood to your site
 
 Quick start
 -----------
-Install with [Bower](http://bower.io): `bower install snowfall-canvas`.
+Install with [Bower](http://bower.io):
+
+* `bower install snowfall-canvas`
+* Add `<script src="/bower_components/snowfall-canvas/main.js"></script>` into page
+* ???
+* Profit!
